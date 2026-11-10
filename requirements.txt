@@ -1,0 +1,5 @@
+
+websockets
+python-dotenv
+azure-eventhub
+pytest
